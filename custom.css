@@ -1,0 +1,62 @@
+.bg-grey
+{
+	background-color: #e5e5e5;
+	size: 2rem;
+}
+.purple
+{
+	background-color: rgb(136, 75, 241) !important;
+	border-color: rgb(136, 75, 241);
+}
+.disabled-1
+{
+	background-color: rgb(255, 255, 255) !important;
+	color: #9f9f9f;
+	border: none;
+}
+.outline-btn-1
+{
+	background-color: rgb(255, 255, 255) !important;
+	color: rgb(136, 75, 241);
+	border-color: rgb(136, 75, 241);
+}
+.disabled-2
+{
+	background-color: rgb(255, 255, 255) !important;
+	color: #9f9f9f;
+	border-color: #9f9f9f;
+}
+.text-only
+{
+	background-color: rgba(0, 0, 0, 0);
+	color: rgb(136, 75, 241);
+	border:  none;
+}
+.text-only-disabled
+{
+	background-color: rgba(0, 0, 0, 0);
+	color: #9f9f9f;
+	border: none;
+}
+.btn
+{
+	border-radius: 10px !important;
+}
+.arrow-white
+{
+	height: 18px;
+	fill: white;
+	padding-right: 4px;
+}
+.arrow-smoked
+{
+	height: 18px;
+	fill: #9f9f9f;
+	padding-right: 4px;
+}
+.arrow-purple
+{
+	height: 18px;
+	fill: rgb(136,75,241);
+	padding-right: 4px;
+}
